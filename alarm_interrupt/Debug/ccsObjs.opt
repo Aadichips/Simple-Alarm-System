@@ -1,0 +1,10 @@
+"./buzzer.obj"
+"./buzzer_asm.obj"
+"./lab5_main.obj"
+"./motion.obj"
+"./motion_asm.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
+-l"C:/Users/aadic/Downloads/ECE266_Labs/Util/Debug/Util.lib"
+-l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib"
